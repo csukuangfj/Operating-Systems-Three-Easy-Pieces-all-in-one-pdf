@@ -9,7 +9,7 @@ We recommend you buying the book from one of the following sites:
 
 This repository provides script to download the pdfs from
 http://pages.cs.wisc.edu/~remzi/OSTEP/
-and merge all the files in to a big pdf.
+and merge all the files into a big pdf.
 
 ### Usage
 
@@ -22,5 +22,6 @@ cd Operating-Systems-Three-Easy-Pieces-all-in-one-pdf
 
 ./downloads-and-merge-all-into-one-pdf.sh
 ```
+
 and it will generate `all-in-one.pdf`
 in the current directory.
