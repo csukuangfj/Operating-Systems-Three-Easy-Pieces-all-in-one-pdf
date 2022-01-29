@@ -60,6 +60,13 @@ dist-nfs # 49
 dist-afs # 50
 dist-dialogue # 51
 
+dialogue-security # 52
+security-intro # 53
+security-authentication # 54
+security-access # 55
+security-crypto # 56
+security-distributed # 57
+
 dialogue-vmm
 vmm-intro
 dialogue-monitors
